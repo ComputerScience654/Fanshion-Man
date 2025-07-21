@@ -51,6 +51,6 @@
 ---
 
 ## 🛠️ เทคโนโลยีที่ใช้  
-- **Frontend:** ReactJS, Tailwind CSS  
-- **Backend:** Node.js หรือ Next.js  
-- **Database:** MongoDB  
+- **Frontend:** HTML,CSS,Javsscript
+- **Backend:** PHP
+- **Database:** Mysql
